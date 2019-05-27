@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>AVANTÜR</title>
+<script src="jquery-1.10.2.js"></script>
+<script src="data.js"></script>
+<script src="api.js"></script>
+
+<style>
+@font-face {
+	font-family: hubfont;
+	src: url(pricedown.ttf);
+}
+
+body {
+	background : #000;
+}
+
+#karanlik {
+	display: none;
+	position: absolute;
+	background: #000;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	z-index: 1;
+	z-index: 4;
+}
+
+#video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	z-index: 1;
+}
+#interface {
+	position: absolute;
+	z-index: 2;
+	color: #fff;
+	top: 5%;
+	right: 2%;
+	font-size: 40px;
+	font-family: hubfont;
+	text-shadow: 2px 2px #000;
+	text-align: right;
+}
+#interface #sag {
+	width: 300px;
+	float: left;
+}
+#interface #saat {
+	color: #47BAEF;
+	margin-bottom:-5px;
+}
+#interface #para {
+	color: #04B27D;
+	margin-bottom:-5px;
+}
+#interface #can {
+	color: #F99FDF;
+	margin-bottom:-10px;
+}
+#interface #can div {
+	font-size: 30px;
+	text-align: left;
+}
+#interface #polis {
+	margin-right: -10px;
+	color: #1B5370;
+	float: right;
+}
+#interface #polis div{
+	float: left;
+}
+#interface #silah {
+	width: 125px;
+	height: 125px;
+	background-image: url("images/el.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	float:right;
+	margin-top: 25px;
+	margin-left: 25px;
+}
+#baslat {
+	position: absolute;
+	z-index: 5;
+	background-color: #000;
+	top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	font-family: hubfont;
+}
+#baslat p{
+	position: absolute;
+	font-size: 100px;
+	color : #fff;
+	top: 30%;
+	width: 100%;
+	text-align: center;
+}
+#baslat p:hover {
+	color: yellow;
+}
+#yazi {
+	position: absolute;
+	z-index: 5;
+	background-color: #000;
+	top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	font-family: hubfont;
+	display: none;
+}
+#yazi #head{
+	position: absolute;
+	font-size: 100px;
+	color : #fff;
+	top: 30%;
+	width: 100%;
+	text-align: center;
+}
+#yazi #head:hover {
+	color: yellow;
+}
+#yazi #small{
+	position: absolute;
+	font-size: 25px;
+	color : #fff;
+	top: 55%;
+	width: 100%;
+	text-align: center;
+}
+#secenekler {
+	display: none;
+	position: absolute;
+	z-index: 5;
+	top: 75%;
+	left: 50%;
+	font-size: 30px;
+	color : #fff;
+	font-family: hubfont;
+	text-shadow: 2px 2px #000;
+	width: 800px;
+	font-size: 40px;
+	margin-left: -400px;
+}
+#secenekler div {
+	width: 400px;
+	height: 100px;
+	float: left;
+	text-align:center;
+}
+#secenekler div:hover {
+	color: yellow;
+	
+}
+#kunye {
+	position: absolute;
+	bottom: 7%;
+	right: 7%;
+	z-index: 3;
+}
+#kunye_logo {
+	width: 32px;
+	height: 32px;
+}
+#kunye_kutu {
+	position: absolute;
+	display: none;
+	width: 400px;
+	height: 150px;
+	background: #000;
+	margin-left: -400px;
+	margin-top: -182px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#kunye_kutu p {
+	color: #fff;
+	margin: 25px;
+}
+
+#kunye_kutu #bu {
+	font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+<div id="karanlik"></div>
+<div id="baslat" onclick="baslat(0)"><p>START</p></div>
+
+<div id="yazi" onclick="baslat(1)"><p id="head"></p><p id="small"></p></div>
+
+<div id="interface">
+	<div id="sag">
+		<div id="saat"></div>
+		<div id="para"></div>
+		<div id="can"></div>
+		<div id="polis">
+			<div id="cop5">★</div>
+			<div id="cop4">★</div>
+			<div id="cop3">★</div>
+			<div id="cop2">★</div>
+			<div id="cop1">★</div>
+			<div id="cop0">★</div> 
+		</div>
+	</div>
+	<div id="silah"></div>
+</div>
+
+<div id="secenekler"></div>
+
+<div id="kunye">
+	<img id="kunye_logo" src="images/info.png"></img>
+	<div id="kunye_kutu">
+	<p id="bu">AVANTÜR</p>
+	<p id="ku">fakülte sanat tarafından, BTF '19'da tasarlanmıştır. Ayrıntılı bilgi için fakultesanat.com</p>
+	</div>
+</div>
+
+<video id="music" width="1" height="1" src="" loop></video>
+<video id="video" width="100%" height="100%" src=""></video>
+
+</body>
+
+</html>
