@@ -133,7 +133,7 @@ function sahnecagir(sahnekodu) {
 			video.src = data.sahneler[sahnekodu].link;
 			video.play();
 		}else{
-			clearInterval(item.timer);
+			clearInterval(vd_int);
 		}
 	}, 1000);
 }
