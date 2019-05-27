@@ -20,6 +20,8 @@ var zi;
 
 var can_int;
 
+var vd_int;
+
 //DEGERLER
 var para;
 var can;
@@ -124,6 +126,16 @@ function sahnecagir(sahnekodu) {
 		$( "#secenekler" ).fadeIn();
 		$( "#karanlik" ).fadeIn();
 	};
+	
+	var vd_int = setInterval(function(){
+		if(video.readyState == 0)
+		{
+			video.src = data.sahneler[sahnekodu].link;
+			video.play();
+		}else{
+			clearInterval(item.timer);
+		}
+	}, 1000);
 }
 
 function secenekler(sahnekodu) {
@@ -172,7 +184,7 @@ function muzik_cal(sta) {
 
 function can_eksilt() {
 	can_int = setInterval(function() {
-		if(can < 1) {
+		if(can < 2) {
 			yazi_func("WASTED","Çok fazla gereksiz zaman harcadın. Bedenin buna dayanamadı.");
 		}else{
 			can_func("-1");
