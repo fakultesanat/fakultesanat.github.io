@@ -16,7 +16,7 @@ var data = {
 		
         "s00" : {
 			//başlangıç
-			"link" : "videos/a/s00.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1NGgMtlPvPlUZ3O_Nh7HIDOTDMSxZaV2d",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s01",
@@ -36,7 +36,7 @@ var data = {
 		},
 		"s01" : {
 			//birinesor
-			"link" : "videos/a/s01.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1yvjLqh5pLsIX4UYrotPywIXLzc0y8L3f",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s02",
@@ -46,7 +46,7 @@ var data = {
 		},
 		"s02" : {
 			//çevreyebakın
-			"link" : "videos/a/s02.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1ArJKeh3gOx1T988WkuukUK5QSfX5UKEK",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s03.01",
@@ -56,7 +56,7 @@ var data = {
 		},
 		"s03.01" : {
 			//yürümeyedevamet
-			"link" : "videos/a/s03.1.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1Z9dJPnkhItLhubWoQNgMcNZgxnL2CZHi",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s03",
@@ -66,7 +66,7 @@ var data = {
 		},
 		"s03" : {
 			//çayiçamaparayok
-			"link" : "videos/a/s03.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=114rfmWJhsyeOLZJMXBH88Y7E0h7H2RDB",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s04",
@@ -76,7 +76,7 @@ var data = {
 		},
 		"s04" : {
 			//atmgit
-			"link" : "videos/a/s04.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1OsuuYKsS7W7q81xflcoddmPxnDNNcwJ-",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s05",
@@ -90,7 +90,7 @@ var data = {
 		},
 		"s05" : {
 			//gaspyap
-			"link" : "videos/a/s05.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1oT-M6ngUXmHzTt6QHmw2cU_DB4mvEa1H",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s06",
@@ -110,7 +110,7 @@ var data = {
 		},
 		"s06" : {
 			//kaçmayadevamet
-			"link" : "videos/a/s06.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1Q4AGdNdrHVGHbxDmL7PWf3Bx9iKODSlO",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -126,7 +126,7 @@ var data = {
 		},
 		"s08" : {
 			//gizliceçal
-			"link" : "videos/a/s08.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1gAVEovjsSiehb3dWRzDDTcbdn9Ot798H",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s09",
@@ -142,7 +142,7 @@ var data = {
 		},
 		"s09" : {
 			//çayiç
-			"link" : "videos/a/s09.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1qL4Q_FQT2jBDFvjSqcDNq7ydHU_BO8eo",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s10",
@@ -166,7 +166,7 @@ var data = {
 		},
 		"s10" : {
 			//çayiçdevamet
-			"link" : "videos/a/s10.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1E_o4Sej5SzhBxonkKX-zmP6i4sB1aOQa",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -201,7 +201,7 @@ var data = {
 		
 		"s20" : {
 			//başlangıç
-			"link" : "videos/b/s20.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1S3hl07c6Yz7P2yD9d0VgHA0K6FGIitjO",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s21",
@@ -231,7 +231,7 @@ var data = {
 		},
 		"s21" : {
 			//saklan
-			"link" : "videos/b/s21.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=17zk1OZvj0tkjxTjgYgDfMZ3WGLIpE08t",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s23",
@@ -245,7 +245,7 @@ var data = {
 		},
 		"s23" : {
 			//kalabalığakarış ve takip et
-			"link" : "videos/b/s23.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=118zJqE2Xk1mvfw-NPOU3CCcBKA0pJof_",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s301",
@@ -255,7 +255,7 @@ var data = {
 		},
 		"s22" : {
 			//koşmaya devam et
-			"link" : "videos/b/s22.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1Eo7crL8KHAAs7KM2PSe_5sFeRgqmSqGy",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s25",
@@ -269,7 +269,7 @@ var data = {
 		},
 		"s25" : {
 			//saklanvebroşürügör
-			"link" : "videos/b/s25.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1rEVaM4eW-1ZgtFyjfbMUwM5oVZODakBU",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s302",
@@ -283,7 +283,7 @@ var data = {
 		},
 		"s26" : {
 			//koşmayadevamet
-			"link" : "videos/b/s26.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1lKSK7YH_c61RpsZT_P-j19eII2B_1rjJ",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -299,7 +299,7 @@ var data = {
 		},
 		"s27" : {
 			//espark a doğru yönel
-			"link" : "videos/b/s27.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1FMyqR3v7g1QMF90fRAiVcdJxdlAqIWmJ",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -319,7 +319,7 @@ var data = {
 		
 		"s300" : {
 			//başlangıç1
-			"link" : "videos/c/s300.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1WJNnqbdzd4gs1cfgOywvl5K3W0zIAab4",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s31",
@@ -345,7 +345,7 @@ var data = {
 		},
 		"s301" : {
 			//başlangıç2
-			"link" : "videos/c/s301.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1-jLLpY_JwxCc6tGpke9M9KhO3WB8WM9s",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s31",
@@ -371,7 +371,7 @@ var data = {
 		},
 		"s302" : {
 			//başlangıç3
-			"link" : "videos/c/s302.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1OlDpnhwuI6DjWs9QOSLtoq39UcPg712v",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s31",
@@ -397,7 +397,7 @@ var data = {
 		},
 		"s31" : {
 			//devamet
-			"link" : "videos/c/s31.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1hUaoSHqjHpLp7OeorTeTudl75OAUJCyr",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s33",
@@ -411,7 +411,7 @@ var data = {
 		},
 		"s34" : {
 			//reddet
-			"link" : "videos/c/s34.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1K3aKWCGTo1F2eRb3xuHkH1AkperEXr0-",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -427,7 +427,7 @@ var data = {
 		},
 		"s33" : {
 			//kabulet
-			"link" : "videos/c/s33.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1CEXt0-UhQypdBIr7EJHnxoDFoog7Wz0l",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s35",
@@ -441,7 +441,7 @@ var data = {
 		},
 		"s35" : {
 			//senkimsin
-			"link" : "videos/c/s35.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=10Y8Au2zvtwOKYsVZi0Dz5G2XQs6ceB5y",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s37",
@@ -451,7 +451,7 @@ var data = {
 		},
 		"s36" : {
 			//benkimim
-			"link" : "videos/c/s36.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=188xqzEVtMus9BsPBwM5SOLBH1A_aC4b1",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s37",
@@ -461,7 +461,7 @@ var data = {
 		},
 		"s37" : {
 			//neleroluyor
-			"link" : "videos/c/s37.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1Fvsg9s2Hz0mwigFIULLWJrdSaxEUX2wN",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s003",
@@ -475,7 +475,7 @@ var data = {
 		},
 		"s32" : {
 			//etrafabak
-			"link" : "videos/c/s32.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1LTATOQzsKumOh_R04q3-LJB96E1x321p",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s35",
@@ -489,7 +489,7 @@ var data = {
 		},
 		"s003" : {
 			//başlangıça dön
-			"link" : "videos/c/s003.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1QIwLORczQlsvVg17WFUI1Yc3YjH2CV3j",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s01",
@@ -519,7 +519,7 @@ var data = {
 		
 		"s40" : {
 			//başlangıç
-			"link" : "videos/d/s40.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1Yr3T6PHBEqDwjhctfUSCEg8M5jRYV9Nc",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s41",
@@ -545,7 +545,7 @@ var data = {
 		},
 		"s42" : {
 			//sıradabekle
-			"link" : "videos/d/s42.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=19SKP_GYUWgIQyT7pFb_LalD-d5VArP7D",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -561,7 +561,7 @@ var data = {
 		},
 		"s41" : {
 			//sıradançık
-			"link" : "videos/d/s41.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1zqhvlzgjxqRxe9BzmJhq7mF-pebiN7sX",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s411",
@@ -571,7 +571,7 @@ var data = {
 		},
 		"s411" : {
 			//odunpazarına git
-			"link" : "videos/d/s411.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=19EQiPY9NVgVGbZs2HclNPZBK64KzawuE",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s43",
@@ -585,7 +585,7 @@ var data = {
 		},
 		"s43" : {
 			//beğen
-			"link" : "videos/d/s43.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=10kDW04fuCcouPOTw1s3md4EMEOpR8A6m",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s46",
@@ -599,7 +599,7 @@ var data = {
 		},
 		"s44" : {
 			//beğenme
-			"link" : "videos/d/s44.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=14OWCl6gzZ3_hdftb4gblkVb5FEqoIV5S",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s46",
@@ -619,7 +619,7 @@ var data = {
 		},
 		"s45" : {
 			//ilksağ
-			"link" : "videos/d/s45.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=11qX7Upv9evvB195gen5SBDpnwAB6dEGe",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s47",
@@ -633,7 +633,7 @@ var data = {
 		},
 		"s46" : {
 			//ilksol
-			"link" : "videos/d/s46.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1ECXnssXRD5g6RTW0IHpxXYYPcC4rS16z",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s49.1",
@@ -647,7 +647,7 @@ var data = {
 		},
 		"s47" : {
 			//çıkış1
-			"link" : "videos/d/s47.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=12WNIRmGrz71EFJrQBa6oqKgDbJVpWF_5",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s50",
@@ -657,7 +657,7 @@ var data = {
 		},
 		"s48" : {
 			//kayboldun
-			"link" : "videos/d/s48.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1jxF1Q1bFrU-mhEVXSM4aqYXr-02m2NG1",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -673,7 +673,7 @@ var data = {
 		},
 		"s49" : {
 			//çıkış2
-			"link" : "videos/d/s49.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=15lboDeezNv6WOTVCnhmCXrygw2ARgf5b",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s50",
@@ -683,7 +683,7 @@ var data = {
 		},
 		"s49.1" : {
 			//çıkış3
-			"link" : "videos/d/s49.1.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1_Rabf87M7Eu4z_fKi8aaInPPLxA-elge",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s50",
@@ -697,7 +697,7 @@ var data = {
 		
 		"s50" : {
 			//başlangıç
-			"link" : "videos/e/s50.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=152cPqonaYeRnhl-PW_cOj2CxLuzwEmuo",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s51",
@@ -723,7 +723,7 @@ var data = {
 		},		
 		"s51" : {
 			//okulagir
-			"link" : "videos/e/s51.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=11c-EbNriyA8pEQjx52YRiUofYN8CyNvb",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s58",
@@ -737,7 +737,7 @@ var data = {
 		},
 		"s53" : {
 			//merdiveneyönel
-			"link" : "videos/e/s53.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=19AofoXrIV6l7rOGcwemKa5H9k34xDPz9",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s54",
@@ -747,7 +747,7 @@ var data = {
 		},
 		"s54" : {
 			//merdiveneyönelx2
-			"link" : "videos/e/s53.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=19AofoXrIV6l7rOGcwemKa5H9k34xDPz9",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s57",
@@ -757,7 +757,7 @@ var data = {
 		},
 		"s57" : {
 			//intihar
-			"link" : "videos/e/s57.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1tAKnQWmu3Qt_VEUDpp7mHTmPibeSJk83",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -773,7 +773,7 @@ var data = {
 		},
 		"s58" : {
 			//solayönel
-			"link" : "videos/e/s58.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1zVHn7a5pGp3mgV-azsQk63Gx_DupPvOr",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s59",
@@ -783,7 +783,7 @@ var data = {
 		},
 		"s59" : {
 			//atölyeyeyönel
-			"link" : "videos/e/s59.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1A7i9fTZMrghVrE08bmeUHmx_iSgm8IIQ",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s61",
@@ -793,7 +793,7 @@ var data = {
 		},
 		"s61" : {
 			//sınıflakarşılaş
-			"link" : "videos/e/s61.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1X9lwN6sbZdJDO_l-kS7psSVjNNtvozvJ",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s62",
@@ -807,7 +807,7 @@ var data = {
 		},
 		"s62" : {
 			//ölmüyor 1 saniyelik kara ekran videosu
-			"link" : "videos/e/s62.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1RQEKCDDbgs940_RaBHnHJQboF-OyIdiN",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -823,7 +823,7 @@ var data = {
 		},
 		"s52" : {
 			//bahçedekal
-			"link" : "videos/e/s52.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1biLx_F7NBmYvmFH57jRu2zFWtiOJlQ13",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s63",
@@ -837,7 +837,7 @@ var data = {
 		},
 		"s63" : {
 			//bahçeyeyürü
-			"link" : "videos/e/s63.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1ne0_Cx0bFgws_3IM5Pd1wA9Nmr2xwpnC",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s65",
@@ -847,7 +847,7 @@ var data = {
 		},
 		"s65" : {
 			//yeniportalıbul
-			"link" : "videos/e/s65.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1sfk0TIwifM7XgA1O3yEyu1GwI1k65fgp",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s67",
@@ -857,7 +857,7 @@ var data = {
 		},
 		"s67" : {
 			//bedenibuldun
-			"link" : "videos/e/s67.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1HWwV8kS4CwvfFvp3lpvTlfqF8TIq38Ez",
 			"secenekler" : {
 			},
 			"olay" : {
@@ -873,7 +873,7 @@ var data = {
 		},
 		"s64" : {
 			//bahçedebekle
-			"link" : "videos/e/s64.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1J_N35Z8z7dQbOAB8U-0xYO9DEraZDchZ",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s68",
@@ -883,7 +883,7 @@ var data = {
 		},
 		"s68" : {
 			//bahçedebekle
-			"link" : "videos/e/s68.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1ruOVTbd17QiVhscJ5uMHnaNqCOCdv10Z4",
 			"secenekler" : {
 				"1" : {
 					"sahne" : "s70",
@@ -893,7 +893,7 @@ var data = {
 		},
 		"s70" : {
 			//disconnect
-			"link" : "videos/e/s70.mp4",
+			"link" : "https://drive.google.com/uc?export=download&id=1WcuXwwErZItRBfO033T8HjY5v_i291iw",
 			"secenekler" : {
 			},
 			"olay" : {
