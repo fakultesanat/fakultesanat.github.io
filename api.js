@@ -126,16 +126,6 @@ function sahnecagir(sahnekodu) {
 		$( "#secenekler" ).fadeIn();
 		$( "#karanlik" ).fadeIn();
 	};
-	
-	var vd_int = setInterval(function(){
-		if(video.readyState == 0)
-		{
-			video.src = data.sahneler[sahnekodu].link;
-			video.play();
-		}else{
-			clearInterval(vd_int);
-		}
-	}, 1000);
 }
 
 function secenekler(sahnekodu) {
